@@ -62,6 +62,7 @@ Configure a Jenkins Master-Agent architecture using two separate GCP virtual mac
 - Created a Freestyle Jenkins job and restricted execution to the `java-agent` label.
 - Verified distributed execution through Jenkins Console Output.
 
+# **DOCKER**
 
 # Project 2.1 – Optimizing Container Images Using Multi-Stage Docker Builds
 
